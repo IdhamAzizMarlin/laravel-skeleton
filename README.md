@@ -10,5 +10,7 @@ Laravel skeleton build with laravel v9
 - **[Yajra Datatable](https://yajrabox.com/docs/laravel-datatables/master/introduction)**
 
 ## Todo
-- Add admin Panel
 - Add laravel module
+- Add admin Panel
+- Add User Management
+- Add Role Management
